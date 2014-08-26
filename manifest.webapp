@@ -1,0 +1,28 @@
+{
+  "name": "Test Camera",
+  "description": "Web app template",
+  "launch_path": "/index.html",
+  "type": "certified",
+  "orientation": "landscape",
+  "permissions": {
+    "camera":{}
+  },
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Test Camera",
+      "description": "Web app template"
+    },
+    "zh-TW": {
+      "name": "Test Camera",
+      "description": "Web app template"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/Blank.png"
+  }
+}
